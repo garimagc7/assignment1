@@ -1,1 +1,1 @@
-This is the headerfooter assignment with added table asiignment inside it.
+This is the headerfooter assignment with added table assignment inside it.
